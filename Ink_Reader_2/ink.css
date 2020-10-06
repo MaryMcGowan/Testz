@@ -175,7 +175,7 @@ section {
 
 #homehero {
     height: 300px;
-    background-image: url("home image.png");
+    background-image: url("home.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-left: 190px;
@@ -191,11 +191,29 @@ section {
 
 #abouthero {
     height: 300px;
-    background-image: url("Mary McGowan.jpg");
+    background-image: url("about.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-left: 190px;
 }
+
+#inkhero {
+    height: 300px;
+    width: 533px;
+    background-image: url("Mary McGowan.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+}
+
+#contacthero {
+    height: 300px;
+    background-image: url("contact.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 190px;
+}
+
 
 #reviewonehero {
     height: 300px;
@@ -220,7 +238,7 @@ section {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-left: 190px;
-    background-image: url("privacy policy.jpg");
+    background-image: url("privacy.png");
 }
 
 

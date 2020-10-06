@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8f3dbbc-e0e8-4628-8448-85184c178dbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Ink_Reader_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ink_Reader_2/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ink_Reader_2/contact.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ink_Reader_2/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ink_Reader_2/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ink_Reader_2/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ink_Reader_2/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ink_Reader_2/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ink_Reader_2/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ink_Reader_2/home image.png" beforeDir="false" afterPath="$PROJECT_DIR$/Ink_Reader_2/privacy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ink_Reader_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ink_Reader_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ink_Reader_2/ink.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ink_Reader_2/ink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ink_Reader_2/privacy policy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Ink_Reader_2/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ink_Reader_2/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ink_Reader_2/privacy.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iVv0CIFFcwxktbEzbdvl7ZLYk5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pacific_Trails_Resort" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mcgowan\WebstormProjects\Ink_Reader_2\Ink_Reader_2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8f3dbbc-e0e8-4628-8448-85184c178dbf" name="Default Changelist" comment="" />
+      <created>1602005349002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602005349002</updated>
+      <workItem from="1602005350092" duration="3126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1602008269083">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/0.-1200.1920.1170@0.0.1536.834" timestamp="1602008269083" />
+    <state x="831" y="-717" key="Github.ShareDialog" timestamp="1602005398209">
+      <screen x="0" y="-1200" width="1920" height="1170" />
+    </state>
+    <state x="831" y="-717" key="Github.ShareDialog/0.0.1536.834/0.-1200.1920.1170@0.-1200.1920.1170" timestamp="1602005398209" />
+    <state x="711" y="-910" key="Github.UntrackedFilesDialog" timestamp="1602005407196">
+      <screen x="0" y="-1200" width="1920" height="1170" />
+    </state>
+    <state x="711" y="-910" key="Github.UntrackedFilesDialog/0.0.1536.834/0.-1200.1920.1170@0.-1200.1920.1170" timestamp="1602005407196" />
+    <state x="552" y="-882" key="Vcs.Push.Dialog.v2" timestamp="1602005672833">
+      <screen x="0" y="-1200" width="1920" height="1170" />
+    </state>
+    <state x="552" y="-882" key="Vcs.Push.Dialog.v2/0.0.1536.834/0.-1200.1920.1170@0.-1200.1920.1170" timestamp="1602005672833" />
+  </component>
+</project>

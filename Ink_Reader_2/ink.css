@@ -1,0 +1,391 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #597C74;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+}
+
+label {
+    float: left;
+    display: block;
+    text-align: right;
+    width: 120px;
+    padding-right: 10px;
+}
+
+input, textarea {
+    display: block;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    margin-left: 12em;
+}
+
+td {
+    padding: 0.5em;
+    border: 1px #3399CC solid;
+    text-align: center;
+
+}
+
+th {
+    padding: 0.5em;
+    border: 1px #3399CC solid;
+}
+
+
+#wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #3F2860;
+    background-color: #FFFFFF;
+    min-width: 960px;
+    max-width: 2048px;
+    box-shadow: 3px 3px 3px #333333;
+    border-width: 1px;
+    border-color: #FFFFFF;
+    background-image: linear-gradient(to bottom, #FFFFFF, #ECDFD1);
+    background-repeat: no-repeat;
+}
+
+#contact {
+    font-size: 90%;
+}
+
+video, embed, video a {
+    float: right;
+    padding-left: 20px;
+}
+
+figure {
+    position: absolute;
+    left: 280px;
+    text-align: center;
+    opacity: .25;
+}
+
+header {
+    background-color: #284243;
+    background-image: url("Ink Reader Logo.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 120px;
+    display: block;
+}
+
+h1 {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 3em;
+    font-family: Georgia, "Times New Roman", serif;
+    letter-spacing: 0.25em;
+    color: #040809;
+}
+
+h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #040809;
+    font-size: 2em;
+
+}
+
+h3 {
+    color: #040809;
+    font-size: 1.5em;
+}
+
+
+nav {
+    font-weight: bold;
+    float: left;
+    width: 160px;
+    padding: 0.5em;
+    display: block;
+    font-size: 120%;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 1em;
+
+}
+
+nav a:link {
+    color: #040809;
+}
+
+nav a:visited {
+    color: #344873;
+}
+
+nav a:hover {
+    color: #a52a2a;
+
+}
+
+main {
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: 190px;
+    padding-left: 30px;
+    background-color: #FFFFFF;
+
+}
+
+figure {
+    display: block;
+    position: absolute;
+    left: 280px;
+    text-align: center;
+}
+
+figcaption {
+    display: block;
+}
+
+aside {
+    display: block;
+}
+
+article {
+    display: block;
+}
+
+section {
+    display: block;
+}
+
+#mobile {
+    display: none;
+}
+
+#desktop {
+    display: inline;
+}
+
+#homehero {
+    height: 300px;
+    background-image: url("home image.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 190px;
+}
+
+#authorhero {
+    height: 300px;
+    background-image: url("books.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 190px;
+}
+
+#abouthero {
+    height: 300px;
+    background-image: url("Mary McGowan.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 190px;
+}
+
+#reviewonehero {
+    height: 300px;
+    width: 197px;
+    background-image: url("Starless Sea.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+}
+#reviewtwohero {
+    height: 300px;
+    width: 201px;
+    background-image: url("Spinning Silver.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+}
+
+
+#privacyhero {
+    height: 300px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 190px;
+    background-image: url("privacy policy.jpg");
+}
+
+
+
+nav a {
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+
+footer {
+    background-color: #FFFFFF;
+    font-family: Georgia, "Times New Roman", serif;
+    text-align: center;
+    font-size: 75%;
+    font-style: italic;
+    padding: 20px;
+    display: block;
+    margin-left: 190px;
+    float: bottom;
+    clear: both;
+}
+
+@media only screen and (max-width: 64em) {
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #FFFFFF;
+    }
+
+    #wrapper {
+        min-width: 0;
+        width: auto;
+        border: none;
+        box-shadow: none;
+    }
+
+    header {
+        padding-top: 1px;
+        padding-bottom: 0.5em;
+        height: auto;
+    }
+
+    main {
+        margin-left: 0;
+        font-size: 90%;
+        clear: both;
+    }
+
+    nav {
+        float: none;
+        width: auto;
+        text-align: center;
+        padding: 0.5em;
+    }
+
+    nav li {
+        display: inline;
+        padding-top: 0.25em;
+        padding-bottom: 0.25em;
+        padding-left: 0.75em;
+        padding-right: 0.75em;
+    }
+
+
+    #homehero {
+        height: 200px;
+        margin: 0;
+    }
+
+    #abouthero {
+        height: 200px;
+        margin: 0;
+    }
+
+    #authorhero {
+        height: 200px;
+        margin: 0;
+    }
+
+    #privacyhero {
+        height: 200px;
+        margin: 0;
+    }
+
+
+    @media only screen and (max-width: 37.5em) {
+        h1 {
+            font-size: 2em;
+        }
+
+        header {
+            padding-top: 10px;
+            padding-bottom: 0.5em;
+            height: auto;
+
+        }
+
+        main {
+            padding-top: 0.1em;
+            padding-bottom: 0.1em;
+            padding-left: 1em;
+            padding-right: 1em;
+            font-size: 90%;
+        }
+
+        label {
+            float: none;
+            text-align: left;
+        }
+
+        input[type="submit"] {
+            margin-left: 0;
+        }
+
+        nav a {
+            display: block;
+        }
+
+        nav li {
+            display: block;
+            margin: 0;
+            border: 2px solid #330000;
+        }
+
+
+        #homehero {
+            background-image: none;
+            height: 0;
+        }
+
+        #abouthero {
+            background-image: none;
+            height: 0;
+        }
+
+        #authorhero {
+            background-image: none;
+            height: 0;
+        }
+
+        #privacyhero {
+            background-image: none;
+            height: 0;
+        }
+
+        footer {
+            padding: 0.5em;
+            margin: 0;
+        }
+
+        #mobile {
+            display: inline;
+        }
+
+        #desktop {
+            display: none;
+        }
+
+        video, embed, video a {
+            float: none;
+        }
+
+        #gallery {
+            width: 96%;
+        }
+    }
+}

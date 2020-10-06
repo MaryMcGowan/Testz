@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" rel="stylesheet">
+    <title>Ink Reader :: Contact</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="ink.css">
+
+</head>
+<body>
+<div id="wrapper">
+    <header>
+
+    </header>
+    <nav>
+        <ul class="nav flex-sm-column">
+            <li class="nav-item">
+                <a class="nav-link active" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="author.html">Featured&nbsp;Author</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Contact us with your suggestions!</h2>
+        <br>
+        <p>Required fields are marked with a *</p>
+        <form name="Contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+
+            <label for="myFName">* First Name:</label>
+            <input id="myFName" name="myFName" type="text" required>
+
+            <label for="myLName">* Last Name:</label>
+            <input id="myLName" name="mLFName" type="text" required>
+
+            <label for="myEmail">* E-Mail:</label>
+            <input id="myEmail" name="myEmail" type="email" size="35" required>
+
+            <label for="myComments">* Comments:</label>
+            <textarea id="myComments" name="myComments" rows="2" cols="30" required></textarea>
+
+
+            <input type="submit" value="Submit">
+        </form>
+
+        <div id="contact">
+            Or give us a call <br>
+            Monday to Friday from 8-5 CST <br>
+            <a id="mobile" href="tel:920-321-1234">920-321-1234</a>
+            <span id="desktop">920-321-1234</span>
+            <br><br>
+        </div>
+    </main>
+    <footer>
+        Copyright &copy; 2020 Ink Reader <br>
+        <a href="mailto:MaryMcGowan@fakeemail.com">Mary McGowan</a>
+        <br><br>
+        <a href="privacy.html">Our Privacy Policy</a>
+    </footer>
+</div>
+</body>
+</html>
